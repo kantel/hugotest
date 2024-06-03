@@ -1,2 +1,3 @@
-# hugotest
-Hugo Testsites
+# Hugo Testsites
+
+Meine ersten Schritte mit Hugo
