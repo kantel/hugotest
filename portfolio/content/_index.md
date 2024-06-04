@@ -1,7 +1,7 @@
-Dies ist Jörgs Portfolio.
+Dies könnte mal mein Digitaler Garten werden.
 
 Auf diesen Seiten findet Ihr:
 
 - Meine super coole Biographie
-- Meine Projekte
-- Meine Artikel
+- Meine tollen Projekte
+- Meine grandiosen Artikel
