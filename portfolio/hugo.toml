@@ -2,3 +2,6 @@ baseURL = "https://example.org/"
 languageCode = "de-DE"
 title = "Des Schockwellenreiters Digitaler Garten"
 theme ="basic"
+[params]
+    author = "Jörg Kantel"
+    description = "Meine Hugo Testseiten"

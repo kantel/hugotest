@@ -13,7 +13,7 @@
       <link>http://localhost:1313/contact/</link>
       <pubDate>Tue, 04 Jun 2024 19:39:06 +0200</pubDate>
       <guid>http://localhost:1313/contact/</guid>
-      <description></description>
+      <description>Das ist meine Kontaktseite.</description>
     </item>
     <item>
       <title>Résumé</title>
@@ -55,14 +55,21 @@
       <link>http://localhost:1313/projects/awesomeco/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/awesomeco/</guid>
-      <description>&#xA;Beschreibung …&#xA;Benutzte Werkzeuge Werkzeug 1 Werkzeug 2 Werkheug 3 </description>
+      <description>Zusammenfassung des Projekts Awesomeco</description>
     </item>
     <item>
       <title>Jabberwocky</title>
       <link>http://localhost:1313/projects/jabberwocky/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/jabberwocky/</guid>
-      <description>&#xA;Beschreibung …&#xA;Benutzte Werkzeuge Werkzeug 1 Werkzeug 2 Werkheug 3 </description>
+      <description>Zusammenfassung des Projekts Jabberwocky</description>
+    </item>
+    <item>
+      <title>Linkitivty</title>
+      <link>http://localhost:1313/projects/linkitivty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/linkitivty/</guid>
+      <description>Zusammenfassung des Projekts Linkitivty</description>
     </item>
   </channel>
 </rss>

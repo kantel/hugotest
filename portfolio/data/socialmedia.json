@@ -1,0 +1,12 @@
+{ "accounts":
+    [
+        {"name": "X (vormals: Twitter)",
+        "url": "https://x.com/jkantel"},
+        {"name": "Gesichtsbuch",
+        "url": "https://www.facebook.com/joerg.kantel/"},
+        {"name": "Mastodon",
+        "url": "https://mastodon.social/@kantel"},
+        {"name": "Itch.io",
+        "url": "https://kantel.itch.io/"}
+    ]
+}
