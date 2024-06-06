@@ -1,4 +1,4 @@
 baseURL = "https://example.org/"
 languageCode = "de-DE"
 title = "Des Schockwellenreiters Digitaler Garten"
-theme = "basic"
+theme ="basic"

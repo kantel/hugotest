@@ -1,0 +1,15 @@
+[submodule "portfolio/themes/hugo-flex"]
+	path = portfolio/themes/hugo-flex
+	url = https://github.com/ldeso/hugo-flex.git
+[submodule "portfolio/soho"]
+	path = portfolio/soho
+	url = https://github.com/alexandrevicenzi/soho.git
+[submodule "portfolio/themes/rocinante"]
+	path = portfolio/themes/rocinante
+	url = https://github.com/mavidser/hugo-rocinante.git
+[submodule "portfolio/themes/hugo-simple"]
+	path = portfolio/themes/hugo-simple
+	url = https://github.com/maolonglong/hugo-simple.git
+[submodule "portfolio/themes/hugo-texify3"]
+	path = portfolio/themes/hugo-texify3
+	url = https://github.com/michaelneuper/hugo-texify3.git
