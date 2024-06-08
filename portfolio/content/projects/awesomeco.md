@@ -1,7 +1,7 @@
 ---
 title: "Awesomeco"
 draft: false
-image: //via.placeholder.com/640x150
+image: ../images/madhatter.jpg
 alt_text: "Awesomeco screenshot"
 summary: "Zusammenfassung des Projekts Awesomeco"
 tech_used:

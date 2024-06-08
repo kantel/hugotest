@@ -21,9 +21,15 @@ nav > a {
     color: #ffffff;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 @media only screen and (min-width: 768px) {
     nav { flex-direction: row; }
     .project-container { display: flex; }
     .project-container .project-list { width: 20%; }
     .project-container .project { flex: 1; }
 }
+
